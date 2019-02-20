@@ -1,0 +1,132 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1513px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u181_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:750px;
+  height:1334px;
+}
+#u181 {
+  border-width:0px;
+  position:absolute;
+  left:420px;
+  top:100px;
+  width:750px;
+  height:1334px;
+}
+#u181_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u182_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u182 {
+  border-width:0px;
+  position:absolute;
+  left:1140px;
+  top:168px;
+  width:30px;
+  height:30px;
+  color:#FFFFFF;
+}
+#u182_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:26px;
+  word-wrap:break-word;
+}
+#u183_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:177px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#996633;
+}
+#u183 {
+  border-width:0px;
+  position:absolute;
+  left:1336px;
+  top:170px;
+  width:177px;
+  height:25px;
+  font-size:16px;
+  color:#996633;
+}
+#u183_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:177px;
+  white-space:nowrap;
+}
+#u184 {
+  border-width:0px;
+  position:absolute;
+  left:1170px;
+  top:183px;
+  width:0px;
+  height:0px;
+}
+#u184_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:170px;
+  height:8px;
+}
+#u184_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:153px;
+  top:-10px;
+  width:20px;
+  height:20px;
+}
+#u184_text {
+  border-width:0px;
+  position:absolute;
+  left:33px;
+  top:-8px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
